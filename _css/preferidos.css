@@ -1,0 +1,16 @@
+.carrossel-preferidos__titulo{
+    color: var(--laranja);
+    background-color: var(--Branco);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 1em 0 0.5em 0;
+}
+
+@media screen and (min-width: 1024px) {
+    .carrossel-preferidos__titulo{
+        font-size: 26px;
+    }
+    
+}
