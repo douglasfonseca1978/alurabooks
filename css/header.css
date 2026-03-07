@@ -35,6 +35,11 @@
     margin: 0 0.5em;
     
 }
+.cabecalho__container{
+display:flex;
+align-items:center;
+}
+
 .lista-menu{
     display: none;
     position:absolute;
